@@ -1,0 +1,9 @@
+numpy
+psutil
+torch
+torchvision
+opencv-python
+scipy
+matplotlib
+facenet-pytorch
+scikit-learn
