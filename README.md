@@ -2,7 +2,7 @@
 
 A comparative face presentation attack detection (PAD) benchmark built around the OULU-NPU dataset. The notebook implements a Wang et al. (CVPR 2020) spatial-gradient baseline and compares it with an enhanced Central Difference Convolution (CDC) model with multi-task depth supervision.
 
-> **Notebook status:** This repository preserves the original Colab-oriented research notebook. Dataset files, Google Drive caches, and trained checkpoints are not included.
+> **Notebook status:** The original Colab notebook is not uploaded yet. The repository currently contains the project documentation and setup files. Dataset files, Google Drive caches, and trained checkpoints are not included.
 
 ## Research objectives
 
