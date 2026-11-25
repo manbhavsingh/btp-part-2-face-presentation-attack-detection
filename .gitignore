@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and datasets
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.npy
+*.npz
+data/
+datasets/
+OULU-NPU/
+Oulu-NPU/
+
+# Runtime outputs / local caches
+output*/
+runs/
+cache/
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
